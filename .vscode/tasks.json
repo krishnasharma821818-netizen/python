@@ -1,0 +1,7 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "install",
+			"path": "defshine/0023/message-board/app/
